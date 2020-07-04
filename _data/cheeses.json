@@ -1,0 +1,86 @@
+[
+  {
+    "name" : "brie",
+    "desc" : "A delicious French-style cheese that’s loved by beret-wearing guys named Pierre, Brie has found a new home with Wisconsin cheesemakers. Brie is soft and creamy with a bloomy edible rind. In Wisconsin, Brie is also produced with added flavors such as herbs and black pepper."
+  },
+  {
+    "name" : "fontina",
+    "desc" : "When it comes to culinary versatility, Fontina is a jack-of-all-trades. While it originated in Italy, Fontina is produced in different variations across the globe. In Wisconsin, cheesemakers produce Italian, Swedish, and Danish styles of Fontina."
+  },
+  {
+    "name" : "Camembert",
+    "desc" : "A true taste seductress, Camembert has a silky inside with a bloomy white rind that ripens the cheese from the outside in. As Camembert ages, the rind develops golden reddish markings, a useful tool for identifying the best time to indulge. For best flavor and texture, bring Camembert to room temperature prior to serving."
+  },
+  {
+    "name" : "Gruyère",
+    "desc" : "Any cheese with an accent mark must be tasty. Gruyère originated in the Alpine region between France and Switzerland around the 11th century. Today, Wisconsin produces Gruyère using classic techniques involving handcrafted copper vats. Scrumptious when young, it becomes increasingly sweet, nutty, and granular with age."
+  },
+  {
+    "name" : "Brick",
+    "desc" : "When looking up the word “delicious” in the dictionary, don’t be surprised if you see a picture of Brick cheese right next to it. Originating in Wisconsin and resembling a brick, it’s a smooth-textured cheese that is ivory to creamy yellow in color. Brick comes in three varieties: mild, aged, and dry rind."
+  },
+  {
+    "name" : "Gouda",
+    "desc" : "If you think wooden shoes are the only thing to come from Holland, think again. Gouda was first produced there more than 800 years ago. Both the age and flavor of Gouda can be determined by the color of the wax casing: red suggests mild, yellow or clear suggests aged or flavored, and black or brown suggests smoked."
+  },
+  {
+    "name" : "Cheddar",
+    "desc" : "Leading the nation in producing this captivating cheese, Wisconsin is the Cheddar Capital of the U.S. Aromatic and complex, Cheddar can be aged over ten years. Aging increases sharpness and allows different flavors and textures to develop."
+  },
+  {
+    "name" : "Swiss",
+    "desc" : "No, the moon is not made out of Swiss cheese. However, its surface does bear a striking resemblance to that of this crater-filled, ivory-white cheese. The tradition of making Swiss cheese in 200-pound wheels began in the Middle Ages when cheesemakers were taxed on the number of pieces they produced rather than total weight."
+  },
+  {
+    "name" : "Pepper Jack",
+    "desc" : "Often considered the third cousin twice removed of Monterey Jack, Pepper Jack cheese is flecked with chopped chilies, typically green and red jalapeño peppers. Pepper Jack often finds a home in Mexican dishes such as quesadillas."
+  },
+  {
+    "name" : "Provolone",
+    "desc" : "A cheese closely related to Mozzarella, let’s say its first cousin, Provolone is distinguishable by its fuller flavors achieved through the use of more cultures. Early cheesemakers used ropes to hang and cure Provolone, then reused the ropes to transport it by horseback. Provolone comes in both smoked and unsmoked varieties"
+  },
+  {
+    "name" : "Havarti",
+    "desc" : "Raise your hand if you have a heart for Havarti. Smooth, supple, and originally from Denmark, it’s been perfected by Wisconsin cheesemakers. A special Wisconsin-style Havarti was developed at the University of Wisconsin and is firmer and more buttery than other varieties."
+  },
+  {
+    "name" : "Blue",
+    "desc" : "When biting into a piece of Blue, prepare for a rush of flavor, aroma, and unprecedented feelings of cheese joy. Named for its blue veins, Blue cheese ranges from firm and crumbly to slightly creamy in texture. Blue cheese is aged longer than 60 days for a bolder and more expressive flavor experience."
+  },
+  {
+    "name" : "Cheese Curds",
+    "desc" : "You haven’t truly lived until you’ve finished off an entire bag of Wisconsin Cheese Curds all by your lonesome. So what are Cheese Curds? They’re simply fresh cheese – most commonly Cheddar – in its natural, random shape and form before being processed into blocks and aged. And yes, they are tasty."
+  },
+  {
+    "name" : "Mozzarella",
+    "desc" : "What’s tasty and weighs 850 million pounds? All the Mozzarella cheese produced by Wisconsin cheesemakers in a given year. An Italian favorite, this cheese gained popularity in America following World War II as vets returned home with a craving for the pizzas they ate while overseas."
+  },
+  {
+    "name" : "Gorgonzola",
+    "desc" : "Almost older than time itself, Gorgonzola has been made since 879 A.D. Gorgonzola is a creamy ivory color with penetrating greenish blue streaks throughout. This cheese is typically produced in flatter wheels than traditional Blue cheeses. Wisconsin Gorgonzolas are known for their exceptional creaminess."
+  },
+  {
+    "name" : "Camembert",
+    "desc" : "A true taste seductress, Camembert has a silky inside with a bloomy white rind that ripens the cheese from the outside in. As Camembert ages, the rind develops golden reddish markings, a useful tool for identifying the best time to indulge. For best flavor and texture, bring Camembert to room temperature prior to serving."
+  },
+  {
+    "name" : "Asiago",
+    "desc" : "Say ciao to a classic taste that originated in the country shaped like a boot. Asiago is a firm cheese that can be served medium, or aged to develop sharper flavors. Often grated over food, Asiago also makes an excellent dessert cheese when paired with walnuts and dried apricots."
+  },
+  {
+    "name" : "Parmesan",
+    "desc" : "Although you won’t see it wearing a crown, Parmesan is considered the king of Italian-style cheeses. Adding life to many dishes, its flavor intensifies with age. While commonly grated and melted into food, Parmesan also works well as a table cheese. Wisconsin cheesemakers lead the U.S. in the production of award-winning Parmesans."
+  },
+  {
+    "name" : "Feta",
+    "desc" : "If you have a dish that needs some pizzazz, give Feta a call. Wisconsin cheesemakers make world-class Feta using cow’s milk. Fresh Feta is packaged in brine to help preserve the cheese. There are many varieties of Feta, including herbs and dill, tomato, basil, black pepper, and garlic, to name just a few."
+  },
+  {
+    "name" : "Limburger",
+    "desc" : "Famous for its pungent tendencies, this brave and bold Belgian cheese does nothing but intensify with age. Limburger was created to complement the highly flavored meats commonly eaten in Belgium and Germany. Today, a single cheese plant in Monroe, Wisconsin produces all the surface-ripened Limburger made in the United States."
+  },
+  {
+    "name" : "Butterkäse",
+    "desc" : "Your mouth won’t know what hit it when you bite into this tasty cheese treat. Just like the Deutschlanders who created it, Butterkäse is one hearty cheese. Named for its butter-like texture, Butterkäse is a delicately flavored, odorless cheese. It’s semisoft and easily melts into many of your favorite dishes, as well as your mouth."
+  }
+]
